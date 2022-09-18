@@ -1,0 +1,314 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  rat.cpp
+rat.cpp(29,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  reverse.cpp
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(142,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(147,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(147,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(147,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(152,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(152,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(152,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(157,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(157,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(157,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(161,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(161,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(161,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(181,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(182,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(183,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(185,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(186,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(187,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(190,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(191,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(192,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(193,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(194,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(196,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(197,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(198,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(199,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(201,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(202,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(203,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(204,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(206,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(207,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(208,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(209,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(250,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(26,6): message : see declaration of 'hwnd'
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\Keybind.h(785,21): warning C4459: declaration of 'aimkeys' hides global declaration
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(44,20): message : see declaration of 'aimkeys'
+reverse.cpp(46,59): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(119): message : see declaration of 'Vector3'
+reverse.cpp(47,62): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\reverse.h(119): message : see declaration of 'Vector3'
+reverse.cpp(62,25): warning C4100: 'in': unreferenced formal parameter
+reverse.cpp(98,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(99,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(100,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(125,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(126,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(127,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(180,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(180,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(189,140): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(189,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(189,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(190,140): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(190,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(190,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(191,140): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(191,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(191,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(192,140): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(192,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(192,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(193,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(193,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(238,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(238,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(238,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(238,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(238,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(238,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(243,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(243,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(243,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(243,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(243,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(243,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(243,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(243,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(243,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(248,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(248,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(248,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(248,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(248,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(248,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(248,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(253,200): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(253,182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(253,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(253,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(254,176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(254,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(254,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(254,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(258,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(258,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(258,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(258,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(273,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(274,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(277,158): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(277,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(277,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(277,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(278,158): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(278,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(278,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(278,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(279,166): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(279,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(279,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(279,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(280,166): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(280,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(280,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(280,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(281,166): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(281,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(281,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(281,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(282,166): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(282,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(282,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(282,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(283,174): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(283,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(283,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(283,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(284,174): warning C4305: 'argument': truncation from 'double' to 'float'
+reverse.cpp(284,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(284,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(284,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(288,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(288,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(288,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(288,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(289,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(289,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(289,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(289,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(290,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(290,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(290,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(290,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(291,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(291,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(291,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(291,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(292,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(292,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(292,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(292,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(293,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(293,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(293,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(293,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(294,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(294,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(294,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(294,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(295,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(295,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(295,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(295,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(339,32): warning C4100: 'argv': unreferenced formal parameter
+reverse.cpp(339,14): warning C4100: 'argc': unreferenced formal parameter
+reverse.cpp(522,24): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+reverse.cpp(42,7): message : see declaration of 'ScreenCenterX'
+reverse.cpp(522,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(523,24): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+reverse.cpp(43,7): message : see declaration of 'ScreenCenterY'
+reverse.cpp(523,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(524,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(573,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(573,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(585,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(585,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(585,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(585,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(585,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(585,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(585,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(596,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(596,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(597,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(597,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(598,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(598,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(599,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(599,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(600,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(600,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(605,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(605,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+reverse.cpp(663,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(675,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(679,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(683,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(687,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(691,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(695,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(699,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(703,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(707,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(711,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(715,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(719,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(723,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(728,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(732,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(736,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(740,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(744,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(748,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(752,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(756,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(760,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(764,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(768,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(772,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(777,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(781,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(785,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(789,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(793,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(797,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(801,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(805,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(809,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(813,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(817,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(821,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(825,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(829,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(833,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(837,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(841,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(845,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(850,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(854,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(858,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(862,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(866,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(870,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(874,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(878,10): warning C4553: '==': result of expression not used; did you intend '='?
+reverse.cpp(896,20): warning C4018: '<': signed/unsigned mismatch
+reverse.cpp(916,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(916,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(916,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(925,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(926,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(938,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(938,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(938,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(938,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(944,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(944,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(944,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(944,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(951,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(951,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(951,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(951,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(951,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(954,123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(954,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(954,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+reverse.cpp(954,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(954,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(965,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(965,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(965,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(970,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(970,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(970,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+reverse.cpp(980,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+reverse.cpp(922,10): warning C4189: 'LeftX': local variable is initialized but not referenced
+reverse.cpp(923,10): warning C4189: 'LeftY': local variable is initialized but not referenced
+reverse.cpp(905,8): warning C4189: 'isDBNO': local variable is initialized but not referenced
+reverse.cpp(1131,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+reverse.cpp(1132,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+reverse.cpp(1195,42): warning C4459: declaration of 'Message' hides global declaration
+reverse.cpp(1089,5): message : see declaration of 'Message'
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\xor.hpp(222): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>>::decrypt(void)'
+reverse.cpp(1054): message : see reference to function template instantiation 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>>::decrypt(void)' being compiled
+reverse.cpp(1050): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>>' being compiled
+C:\Users\brann\Desktop\Sun Skill\reverse.cc free\reverse\ud.h(68,24): warning C4505: 'MouseController::Move_Mouse': unreferenced function with internal linkage has been removed
+reverse.cpp(583,13): warning C4505: 'DrawCircleFilled': unreferenced function with internal linkage has been removed
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1266 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  reverse.vcxproj -> C:\Users\brann\Desktop\Sun Skill\reverse.cc free\x64\Release\ReversePremium.exe
